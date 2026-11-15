@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_today_desc">Due tasks (tap to complete), next routine stop, water and streak</string>
+    <string name="widget_water_desc">Water glasses today. Tap to add a glass</string>
+    <string name="widget_money_desc">Budget left this month</string>
+</resources>
